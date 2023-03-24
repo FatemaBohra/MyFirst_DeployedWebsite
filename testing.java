@@ -15,5 +15,6 @@ class Scratch {
             System.out.println(even);
             x++;
         }
+        System.out.println(x);
     }
 }
